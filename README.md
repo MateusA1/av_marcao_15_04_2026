@@ -26,7 +26,7 @@ O sistema busca resolver problemas como:
 
 O sistema é composto pelas seguintes entidades:
 
-* Aluno**
+* Aluno
 * Professor
 * Disciplina
 * Turma
