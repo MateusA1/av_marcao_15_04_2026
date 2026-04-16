@@ -146,4 +146,4 @@ CREATE INDEX idx_professor ON DISCIPLINA(id_professor);
 
 ## 📎 Observação
 
-Este projeto foi desenvolvido para fins acadêmicos, com foco na aplicação de conceitos de modelagem de dados, normalização e otimização de consultas.
+Este projeto foi desenvolvido para fins acadêmicos.
